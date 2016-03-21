@@ -90,7 +90,7 @@ Update a playlist item. this allows changes of the following:
 ``` json
 {
   "played": true,
-  "skipped: true,
+  "skipped": true,
   "queued": false,
 }
 ```
